@@ -1,1 +1,21 @@
-This file will be written on the fly!
+# This file will be written on the fly!
+
+---------------------------------------------------
+## STEPS: Create Credentials and Generate API Keys
+---------------------------------------------------
+
+### 1. Build with Anthropic Claude
+https://www.anthropic.com/api
+https://www.anthropic.com/claude
+Create account and activate $5 credit.
+Generate the API key.
+
+### 2. HuggingFace
+https://huggingface.co/
+Create Account & Generate the Access Token.
+
+### 3. Pinecone
+https://www.pinecone.com
+Create Account & Generate the API key.
+
+
